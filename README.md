@@ -19,7 +19,7 @@ https://camo.githubusercontent.com/1ca4fca85fcdf590edd7002c02ded299502daa79309d0
 
 ## Connect with me
 
-[<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG25.png" width="25"/>](https://www.linkedin.com/in/rsamedzade)
+[<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG25.png" Rahman Samadzade width="25"/>](https://www.linkedin.com/in/rsamedzade)
 
 
 <!--
