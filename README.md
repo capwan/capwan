@@ -14,8 +14,8 @@
 
 ## Connect with me
 
-[<img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1623407581~hmac=aa076e0f0c5767d3c2c7ac227a9bcabf" Rahman Samadzade width="50"/>](https://www.linkedin.com/in/rsamedzade)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="50"/>](https://t.me/capwan)
+[<img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1623407581~hmac=aa076e0f0c5767d3c2c7ac227a9bcabf" Rahman Samadzade width="40"/>](https://www.linkedin.com/in/rsamedzade)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="40"/>](https://t.me/capwan)
 
 <!--
 **capwan/capwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
