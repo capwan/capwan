@@ -14,7 +14,7 @@
 
 ## Connect with me
 
-[<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG25.png" Rahman Samadzade width="50"/>](https://www.linkedin.com/in/rsamedzade)
+[<img src="https://www.tapas-etn-eu.org/images/icon-linkedin.png/image_view_fullscreen" Rahman Samadzade width="50"/>](https://www.linkedin.com/in/rsamedzade)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="50"/>](https://t.me/capwan)
 
 <!--
