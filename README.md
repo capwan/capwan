@@ -15,7 +15,7 @@
 ## Connect with me
 
 [<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG25.png" Rahman Samadzade width="50"/>](https://www.linkedin.com/in/rsamedzade)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="50"/>](https://t.me/capwan)
+[<img src="https://icons8.ru/icon/63306/%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-app" width="50"/>](https://t.me/capwan)
 
 <!--
 **capwan/capwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
