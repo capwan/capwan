@@ -14,7 +14,7 @@
 
 ## Connect with me
 
-[<img src="https://www.subpng.com/png-z9b7h3/download.html" Rahman Samadzade width="50"/>](https://www.linkedin.com/in/rsamedzade)
+[<img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1623407581~hmac=aa076e0f0c5767d3c2c7ac227a9bcabf" Rahman Samadzade width="50"/>](https://www.linkedin.com/in/rsamedzade)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="50"/>](https://t.me/capwan)
 
 <!--
