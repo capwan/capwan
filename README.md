@@ -3,6 +3,7 @@
 ## 👨🏻‍💻 About me
 
 💡 I like learn new technologies and use it in my projects which I use for automate my work and not only.
+
 🎓 I'm currently studying Digital Economy at the Azerbaijan State University of Economics.
 
 ## 🛠 Tech Stack
