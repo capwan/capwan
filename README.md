@@ -21,6 +21,8 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90"/>](https://www.linkedin.com/in/rsamedzade)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="90"/>](https://t.me/capwan)
+[<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="90"/>](https://steamcommunity.com/id/capwan)
+
 
 <!--
 **capwan/capwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
