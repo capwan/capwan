@@ -17,7 +17,7 @@
 ## ⚙️ GitHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=capwan&&show_icons=true&theme=radical)
 
-## Connect with me
+## ✉️ Connect with me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90"/>](https://www.linkedin.com/in/rsamedzade)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="90"/>](https://t.me/capwan)
