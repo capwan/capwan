@@ -16,7 +16,8 @@
 
 ## ⚙️ GitHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=capwan&&show_icons=true&theme=radical)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=capwan)](https://github.com/capwan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capwan)](https://github.com/capwan/github-readme-stats)
+
 
 
 ## ✉️ Connect with me
