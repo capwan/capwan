@@ -20,15 +20,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capwan&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/capwan/github-readme-stats)
 
-### Profile Visits
-![visitors](https://page-views.glitch.me/badge?page_id=capwan.capwan) 
-
-
 ## ✉️ Connect with me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90"/>](https://www.linkedin.com/in/rsamedzade)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="90"/>](https://t.me/capwan)
 
+## Profile Visits
+![visitors](https://page-views.glitch.me/badge?page_id=capwan.capwan) 
 
 <!--
 **capwan/capwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
