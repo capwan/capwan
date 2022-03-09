@@ -21,7 +21,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capwan&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/capwan/github-readme-stats)
 
 ### Profile Visits
-! [visitors](https://visitor-badge.glitch.me/badge?page_id=capwan.capwan) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=capwan.capwan) 
 
 
 ## ✉️ Connect with me
