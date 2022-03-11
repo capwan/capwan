@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Rahman Samadzade                                                                        ![](https://komarev.com/ghpvc/?username=capwan&color=blue)
-
+### Hi there 👋 I'm Rahman Samadzade                                                                      
 ## 👨🏻‍💻 About me
 
 💡 _I like learn new technologies and use it in my projects which I use for automate my work and not only._
@@ -19,6 +18,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=capwan&&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capwan&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/capwan/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=capwan&color=blue)
 
 ## ✉️ Connect with me
 
