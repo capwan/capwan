@@ -23,7 +23,7 @@
 
 ## ✉️ Connect with me
 
-[<img src="https://icons8.com/icon/Wr2FqAb3M8nX/social" width="90"/>](https://capwan.github.io/my-socials/)
+[@import url('https://unpkg.com/css.gg@2.0.0/icons/css/link.css'); <i class="gg-link"></i>](https://capwan.github.io/my-socials/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90"/>](https://www.linkedin.com/in/rsamedzade)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="90"/>](https://t.me/capwan)
 
