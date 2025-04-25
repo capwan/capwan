@@ -1,4 +1,4 @@
-### Hi there! [wave](https://github.com/user-attachments/assets/bc3cc729-dd78-45ca-aa7b-373c64288975) I'm Rahman Samadzada                                                               
+### Hi there! {gifs/wave} I'm Rahman Samadzada                                                               
 ## 👨🏻‍💻 About me
 
 💡 _I like learn new technologies and use it in my projects which I use for automate my work and not only._
