@@ -21,6 +21,8 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=capwan)](https://github.com/capwan/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capwan&hide_progress=true)
+
 ![](https://komarev.com/ghpvc/?username=capwan&color=blue)
 
 ## ✉️ Connect with me
