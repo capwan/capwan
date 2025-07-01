@@ -17,11 +17,9 @@
 
 
 ## ⚙️ GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=capwan&&show_icons=true&theme=tokyonight )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=capwan&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=capwan)](https://github.com/capwan/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capwan&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capwan&layout=compact&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=capwan&color=blue)
 
