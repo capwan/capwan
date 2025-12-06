@@ -17,7 +17,8 @@
 
 
 ## ⚙️ GitHub Analytics
-[![GitHub Streak](https://streak-stats.demolab.com?user=capwan&theme=tokyonight&border_radius=5.6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=capwan&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=capwan&theme=tokyonight)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=capwan&show_icons=true&theme=tokyonight)
 
