@@ -17,8 +17,9 @@
 
 
 ## ⚙️ GitHub Analytics
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=capwan&theme=tokyonight)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=capwan&theme=tokyonight)
+
+![Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=capwan&theme=tokyonight&chart=pie)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=capwan&type=languages&theme=tokyonight&chart=pie)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=capwan&show_icons=true&theme=tokyonight)
 
