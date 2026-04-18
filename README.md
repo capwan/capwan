@@ -1,59 +1,72 @@
-### Hi there! <img src="https://github.com/user-attachments/assets/431287a5-97fd-49a8-935d-b7c2302c04fa" width="22"/> I'm Rahman Samadzada                                                               
-## 👨🏻‍💻 About me
+## <img src="https://github.com/user-attachments/assets/431287a5-97fd-49a8-935d-b7c2302c04fa" width="22"/> I'm Rahman Samadzada
+```bash
+$ whoami
+> sysadmin --tools=bash,python,powershell --os=linux,windows
+```
 
-💡 _I like learn new technologies and use it in my projects which I use for automate my work and not only._
+## 👨🏻‍💻 About Me
+
+💡 _**I automate routine tasks** — building tools in Python/Bash/PowerShell to simplify system administration and improve workflows._
 
 🎓 **I graduated  Information Technology at the Azerbaijan State University of Economics.**
 
+
 ## 🛠 Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="80"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" width="50"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="70"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="50"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100"> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" width="92"/> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" width="115"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width="100"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="80"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="130"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" width="65"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="54"/>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" width="130"/> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" width="70">
-<img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" width="95"/>
-<img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" width="115"/>
-   
-## 💻 Operation Systems
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="90"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="80"/> <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" width="95">
-  
+
+**🐧 System & Scripting**  
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+
+**🖥️ OS & Infrastructure**  
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+
+**📊 Monitoring & Tools**  
+<img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+**🌐 Web **  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 
 
-## ⚙️ GitHub Analytics
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**system-healthcheck**](https://github.com/capwan/system-healthcheck) | 🔍 Zero-dependency Bash script for rapid Linux diagnostics & monitoring | `Bash` `Linux` |
+| [**whatisweatherbot**](https://github.com/capwan/whatisweatherbot) | 🌤️ Telegram bot with weather forecasts & alerts (async Python) | `Python` `Telegram API` `PyOWM` |
+| [**RAID-Calculator**](https://github.com/capwan/RAID-Calculator) | 🗄️ Web utility to calculate RAID capacity & fault tolerance — [link](https://capwan.github.io/RAID-Calculator/) | `JS` `HTML/CSS` `SPA` |
+| [**Password-Generator**](https://github.com/capwan/Password-Generator) | 🔐 Client-side password generator with customizable rules — [link](https://capwan.github.io/Password-Generator/) | `JavaScript` `HTML/CSS` |
+| [**autoreport**](https://github.com/capwan/autoreport) | 🤖 Internal tool: Windows UI automation for attendance reports | `Python` `PyAutoGUI` `Windows` |
+
+
+---
+
+
+## ⚙️ Activity & Stats
 
 ![Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=capwan&theme=tokyonight&chart=pie)
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=capwan&type=languages&theme=tokyonight&chart=pie)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=capwan&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capwan&layout=compact&theme=tokyonight) -->
-
-![](https://komarev.com/ghpvc/?username=capwan&color=blue)
-
-## ✉️ Connect with me
+### ✉️ Connect with me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90"/>](https://www.linkedin.com/in/rsamedzade)
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="110"/>](https://t.me/capwan)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="112"/>](https://t.me/capwan)
 
-<!--
-**capwan/capwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](https://komarev.com/ghpvc/?username=capwan&color=blue&label=Profile+Views)
 
 
 
 
 
-
-
-
-
-
-
--->
