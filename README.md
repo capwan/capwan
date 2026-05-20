@@ -50,8 +50,7 @@ $ whoami
 | [**whatisweatherbot**](https://github.com/capwan/whatisweatherbot) | 🌤️ Telegram bot with weather forecasts & alerts (async Python) | `Python` `Telegram API` `PyOWM` |
 | [**RAID-Calculator**](https://github.com/capwan/RAID-Calculator) | 🗄️ Web utility to calculate RAID capacity & fault tolerance — [link](https://capwan.github.io/RAID-Calculator/) | `JS` `HTML/CSS` `SPA` |
 | [**Password-Generator**](https://github.com/capwan/Password-Generator) | 🔐 Client-side password generator with customizable rules — [link](https://capwan.github.io/Password-Generator/) | `JavaScript` `HTML/CSS` |
-| [**autoreport**](https://github.com/capwan/autoreport) | 🤖 Internal tool: Windows UI automation for attendance reports | `Python` `PyAutoGUI` `Windows` |
-
+| [**TailFlow**](https://github.com/capwan/TailFlow) | 	📊 Visual log parser. Analyze, group and explore log files directly in the browser — [link](https://capwan.github.io/TailFlow/) | `React` `TailwindCSS` `PWA` | 
 
 ---
 
