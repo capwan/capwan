@@ -14,6 +14,7 @@ $ whoami
 ## 🛠 Tech Stack
 
 **🐧 System & Scripting**  
+<img src="https://img.shields.io/badge/Ansible-E00?style=for-the-badge&logo=ansible&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
