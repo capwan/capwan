@@ -1,7 +1,7 @@
 ## <img src="https://github.com/user-attachments/assets/431287a5-97fd-49a8-935d-b7c2302c04fa" width="22"/> I'm Rahman Samadzada
 ```bash
 $ whoami
-> sysadmin --tools=bash,python,powershell --os=linux,windows
+> sysadmin --tools=ansible,bash,python,powershell --os=linux,windows
 ```
 
 ## 👨🏻‍💻 About Me
